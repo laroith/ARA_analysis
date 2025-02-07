@@ -1,1 +1,7 @@
-# Dependencies (xarray, dask, numpy, etc.)
+xarray
+dask
+numpy
+matplotlib
+cartopy
+pandas
+
